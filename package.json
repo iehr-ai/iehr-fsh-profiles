@@ -1,6 +1,6 @@
 {
   "name": "iehr-fsh-profiles",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "iEHR FSH Profiles Example",
   "private": true,
   "scripts": {
